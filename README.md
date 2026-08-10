@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Motivated B.Tech Computer Science student with strong foundations in Data Structures & Algorithms, Python, C++, and SQL. Experienced in developing AI-powered and collaborative web applications through academic projects and internships. Currently serving as President of the AlgoZenith Technical Club, leading technical initiatives and organizing coding events. Passionate about software development, problem-solving, and continuous learning, with the goal of contributing to innovative technology solutions.<br>Data Structures & Algorithms Python C++ Sql Web Development Git Github Problem Solving Team Leadership Communications Team man Nlp<br>PROJECTS CollabSync – Whiteboard & Code Editor Key Skills: Javascript HTML CSS Web Development UI Development GIT Github Project Link:  https://github.com/Tanisha-crypto/Collaborative-whiteboard.git Built a real-time collaborative platform integrating an interactive whiteboard with a shared code editor. Enabled multiple users to collaborate simultaneously, improving communication and teamwork during coding sessions, brainstorming, and technical discussions. Focused on creating a seamless collaborative experience with real-time synchronization. Legal Document Intelligence MVP Key Skills: Python Artificial Intelligence Natural Language Processing Information Retrieval Github GIT Project Link:  https://github.com/Tanisha-crypto/kodekaleesh-2025.git Developed an AI-powered legal document analysis platform that enables users to summarize, search, and retrieve legal information efficiently. Implemented text processing techniques to improve document understanding and built intelligent search functionality for faster access to relevant information. The project focused on enhancing document management and improving the overall user experience through AI-driven automation.
 
-<!--
-**Tanisha-crypto/Tanisha-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tanisha Thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishaa4321@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tanisha-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Tanisha-crypto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanisha-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Tanisha-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
