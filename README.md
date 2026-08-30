@@ -35,7 +35,7 @@
 - Weather Detection
 
 📫 Reach Me:
-**tanishathakur@example.com**
+**tanishaa4321@gmail.com**
 
 ---
 
