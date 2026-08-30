@@ -1,25 +1,85 @@
-# 💫 About Me:
-Motivated B.Tech Computer Science student with strong foundations in Data Structures & Algorithms, Python, C++, and SQL. Experienced in developing AI-powered and collaborative web applications through academic projects and internships. Currently serving as President of the AlgoZenith Technical Club, leading technical initiatives and organizing coding events. Passionate about software development, problem-solving, and continuous learning, with the goal of contributing to innovative technology solutions.
+<h1 align="center">Hi 👋, I'm Tanisha</h1>
 
+<h3 align="center">
+AI & Full-Stack Developer | Building Intelligent Web Applications
+</h3>
 
-<br>Data Structures & Algorithms Python C++ Sql Web Development Git Github Problem Solving Team Leadership Communications Team man Nlp
-
-<br>PROJECTS CollabSync – Whiteboard & Code Editor Key Skills: Javascript HTML CSS Web Development UI Development GIT Github Project Link:  https://github.com/Tanisha-crypto/Collaborative-whiteboard.git Built a real-time collaborative platform integrating an interactive whiteboard with a shared code editor. Enabled multiple users to collaborate simultaneously, improving communication and teamwork during coding sessions, brainstorming, and technical discussions. Focused on creating a seamless collaborative experience with real-time synchronization. 
-
-Legal Document Intelligence MVP Key Skills: Python Artificial Intelligence Natural Language Processing Information Retrieval Github GIT Project Link:  https://github.com/Tanisha-crypto/kodekaleesh-2025.git Developed an AI-powered legal document analysis platform that enables users to summarize, search, and retrieve legal information efficiently. Implemented text processing techniques to improve document understanding and built intelligent search functionality for faster access to relevant information. The project focused on enhancing document management and improving the overall user experience through AI-driven automation.
-
-
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishaa4321@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tanisha-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tanisha-crypto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanisha-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Tanisha-crypto">
+    <img src="https://komarev.com/ghpvc/?username=Tanisha-crypto&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tanisha-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🔭 I'm currently building AI-powered applications
+- 🌱 Exploring AI, ML & Full-Stack Development
+- 💡 Interested in solving real-world problems with technology
+- 💻 I enjoy building practical and user-friendly applications
+- 🚀 Always learning and experimenting with new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,mysql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanisha-crypto&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Projects
+
+**Recovery AI**  
+AI-powered application focused on intelligent assistance and recovery.
+
+**Resume Analyzer**  
+AI-powered resume analysis using NLP and LLM-based insights.
+
+### 🌐 Web Development
+
+**Collaborative Whiteboard**  
+Real-time collaborative whiteboard and synchronized code editor.
+
+**Weather Detection**  
+Web application for weather information and detection.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanisha-crypto&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Tanisha-crypto">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
