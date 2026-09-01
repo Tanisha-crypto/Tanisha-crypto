@@ -1,144 +1,216 @@
 <div align="center">
 
-# Tanisha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Tanisha%20Thakur&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Development&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### B.Tech Computer Science Student • Software Development • AI • Problem Solving
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tanisha--crypto-181717?style=for-the-badge&logo=github)](https://github.com/Tanisha-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanisha-0798512a9/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI+%26+Full+Stack+Development;Problem+Solver+%7C+Tech+Enthusiast;Building+Projects+%26+Learning+by+Doing" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/Tanisha-crypto">
+<img src="https://img.shields.io/badge/GitHub-Tanisha--crypto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/tanisha-0798512a9/">
+<img src="https://img.shields.io/badge/LinkedIn-Tanisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-Motivated **B.Tech Computer Science student** with strong foundations in **Data Structures & Algorithms, Python, C++, and SQL**. Experienced in developing **AI-powered and collaborative web applications** through academic projects and internships.
+🎓 **Computer Science Student** with an interest in building practical software and exploring Artificial Intelligence.
 
-Currently serving as **President of the AlgoZenith Technical Club**, leading technical initiatives and organizing coding events.
+💡 Interested in **AI, Full Stack Development, problem solving, and technology**.
 
-Passionate about **software development, problem-solving, and continuous learning**, with the goal of contributing to innovative technology solutions.
+🚀 Currently building and exploring projects around:
+- Artificial Intelligence
+- Natural Language Processing
+- Full Stack / Web Development
+- Collaborative applications
+- Developer utilities
+
+> I learn by building — turning ideas into projects, experimenting with technologies, and continuously improving my development skills.
 
 ---
 
-## Core Skills
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+
+### Development & Databases
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,socketio" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Programming & CS
-- Python
-- C++
-- SQL
-- Data Structures & Algorithms
-- Problem Solving
+### 🤖 Resume Analyzer
+
+AI-powered resume analysis using **NLP and LLM APIs**.
+
+**Focus**
+- Resume analysis
+- NLP
+- LLM APIs
+
+<a href="https://github.com/Tanisha-crypto/Resume_Analyzer">
+<img src="https://img.shields.io/badge/Repository-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%">
 
-### Development & Collaboration
-- Web Development
-- JavaScript
-- HTML
-- CSS
-- Git & GitHub
-- Team Leadership
-- Communication
+<td width="50%" valign="top">
+
+### 🧠 Recovery AI
+
+An AI-focused project exploring intelligent technology and user-oriented solutions.
+
+<a href="https://github.com/Tanisha-crypto/Recovery-AI">
+<img src="https://img.shields.io/badge/Repository-2CB67D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Collaborative Whiteboard
+
+A **full-stack real-time collaborative application** featuring a shared whiteboard and synchronized code editor.
+
+**Built with**
+
+`React` `Node.js` `MongoDB` `Socket.IO`
+
+<a href="https://github.com/Tanisha-crypto/Collaborative-whiteboard">
+<img src="https://img.shields.io/badge/Repository-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather Detection
+
+A web project focused on weather detection and presentation through a browser-based interface.
+
+**Technology**
+
+`HTML`
+
+<a href="https://github.com/Tanisha-crypto/Weather_Detection">
+<img src="https://img.shields.io/badge/Repository-2CB67D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-### AI & Information Systems
+---
 
-`Artificial Intelligence` · `Natural Language Processing` · `Information Retrieval`
+## 📂 More Projects
+
+<details>
+<summary><b>Explore my repositories</b></summary>
+
+<br>
+
+| Project | Language / Technology |
+| :--- | :---: |
+| 🔐 **PyPwdChecker** | TeX |
+| 📑 **PDF Form Filler & Merger** | Python |
+| 🧠 **kodekaleesh-2025** | Python |
+| 🌦️ **Weather Detection** | HTML |
+| 🎨 **Collaborative Whiteboard** | JavaScript |
+| 🔑 **Random Password Generator** | CSS |
+| 🌱 **Learning Path** | JavaScript |
+| 🤖 **Recovery AI** | JavaScript |
+| 💼 **Tanisha Portfolio** | HTML |
+| 🎨 **NovaTech** | CSS |
+| 🍔 **Food-Flex** | HTML |
+| 🌓 **Theme-Changer** | CSS |
+| 🧮 **Calculator** | HTML |
+| 🎯 **Guess Number** | HTML |
+| 🗳️ **Voting System** | JavaScript |
+| ✊ **Rock-Paper-Scissor** | HTML |
+
+</details>
 
 ---
 
-## Featured Projects
-
-### 01 — CollabSync · Whiteboard & Code Editor
-
-A full-stack **real-time collaborative application** featuring a shared whiteboard and synchronized code editor.
-
-**Focus:** real-time collaboration, UI development, web development, and seamless synchronization.
-
-**Tech:** `React` `Node.js` `MongoDB` `Socket.IO` `JavaScript`
-
-→ [View Repository](https://github.com/Tanisha-crypto/Collaborative-whiteboard)
-
----
-
-### 02 — Legal Document Intelligence MVP
-
-An **AI-powered legal document analysis platform** designed to help users summarize, search, and retrieve legal information efficiently.
-
-The project uses text-processing techniques and intelligent search to improve document understanding and access to relevant information.
-
-**Focus:** Artificial Intelligence, Natural Language Processing, Information Retrieval
-
-**Tech:** `Python` `AI` `NLP`
-
-→ [View Repository](https://github.com/Tanisha-crypto/kodekaleesh-2025)
-
----
-
-### 03 — Resume Analyzer
-
-A **Smart Resume Analyzer** that analyzes resumes and provides meaningful insights using **Natural Language Processing and LLM APIs**.
-
-**Tech:** `JavaScript` `NLP` `LLM APIs`
-
-→ [View Repository](https://github.com/Tanisha-crypto/Resume_Analyzer)
-
----
-
-### 04 — Random Password Generator
-
-A clean and responsive JavaScript web application for generating secure random passwords instantly.
-
-**Tech:** `JavaScript` `CSS`
-
-→ [View Repository](https://github.com/Tanisha-crypto/Random_Password_generator)
-
----
-
-## More Projects
-
-| Project | Description | Primary Technology |
-|---|---|---|
-| **Learning Path** | Learning-focused project | JavaScript |
-| **Recovery AI** | AI-focused project | JavaScript |
-| **Tanisha Portfolio** | Personal portfolio | HTML |
-| **Weather Detection** | Weather-related web project | HTML |
-| **PDF Form Filler & Merger** | PDF form utility | Python |
-| **PyPwdChecker** | Password-related project | TeX |
-| **NovaTech** | Web design project | CSS |
-| **Food-Flex** | Web project | HTML |
-| **Theme-Changer** | Theme customization project | CSS |
-| **Calculator** | Calculator web application | HTML |
-| **Guess Number** | Number guessing game | HTML |
-| **Voting System** | Voting application | JavaScript |
-| **Rock-Paper-Scissor** | Browser game | HTML |
-
----
-
-## Leadership
-
-### President — AlgoZenith Technical Club
-
-Leading technical initiatives and organizing coding events while promoting problem-solving and collaborative learning.
-
----
-
-## Connect
+## 📊 GitHub
 
 <div align="center">
 
-**Let's connect through GitHub and LinkedIn.**
+<a href="https://github.com/Tanisha-crypto">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanisha-crypto&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tanisha--crypto-181717?style=flat-square&logo=github)](https://github.com/Tanisha-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanisha-0798512a9/)
+<a href="https://github.com/Tanisha-crypto">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-crypto&layout=compact&hide_border=true&theme=transparent" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanisha-crypto&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tanisha-crypto/Tanisha-crypto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
+
+</div>
+
+---
+
+## 👥 Leadership
+
+### 🏆 President — AlgoZenith Technical Club
+
+Leading technical initiatives and coding activities while encouraging problem solving,
+collaboration, and technical learning.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Tanisha-crypto">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/tanisha-0798512a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer" width="100%"/>
 
 </div>
