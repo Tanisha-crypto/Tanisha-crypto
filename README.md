@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Tanisha%20Thakur&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Development&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI+%26+Full+Stack+Development;Problem+Solver+%7C+Tech+Enthusiast;Building+Projects+%26+Learning+by+Doing" alt="Typing SVG" />
-
-<br><br>
 
 <a href="https://github.com/Tanisha-crypto">
 <img src="https://img.shields.io/badge/GitHub-Tanisha--crypto-181717?style=for-the-badge&logo=github&logoColor=white"/>
